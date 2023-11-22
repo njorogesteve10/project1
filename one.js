@@ -1,1 +1,2 @@
-let one = 'one'
+let one = 'one';
+const two = 2;
