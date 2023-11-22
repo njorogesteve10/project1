@@ -1,1 +1,1 @@
-let one = one
+let one = 'one'
